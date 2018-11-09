@@ -18,7 +18,8 @@ To do well on this assignment, you should also review the chapters of the course
 
 ## Commands
 
-To run the program (once working) you should type `python3 anagramPractical10.py sister` from the `src/` directory. Note that `sister` is a parameter for which to find an anagram. You can try other words as long as they are less than ten characters long or you may run into infeasibility issues. Also note that the file, `words.txt` is a list of English-language words which are used to check that a potential anagram solution is an actual word in English.
+To run the program (once working) you should type `python3 wordSearcher_11.py ../input/TEXTFILE.TXT` from the `src/` directory. 
+
 
 
 ## Assistance
