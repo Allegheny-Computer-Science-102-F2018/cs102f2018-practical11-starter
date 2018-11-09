@@ -18,7 +18,7 @@ To do well on this assignment, you should also review the chapters of the course
 
 ## Commands
 
-To run the program (once working) you should type `python3 wordSearcher_11.py ../input/TEXTFILE.TXT` from the `src/` directory. 
+To run the program (once working) you should type `python3 wordSearcher_11.py TEXTFILE.TXT` from the `src/` directory. 
 
 
 
